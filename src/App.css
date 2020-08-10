@@ -2,8 +2,14 @@
   text-align: center;
 }
 
+.App-nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
 .App-logo {
-  height: 40vmin;
+  height: 50px;
 }
 
 .App-header {
@@ -19,4 +25,8 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.Features-section {
+  background-color: white;
 }
